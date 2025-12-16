@@ -1,6 +1,6 @@
 # 📝 TO-DO List App
 
-![Demo](TO-DO.png)
+![Demo](To-Do.png)
 
 A simple, interactive, and fully responsive **TO-DO list web application** built with **HTML, CSS, and JavaScript**.  
 Manage tasks with priorities, mark them as completed, edit, delete, and filter by status. Tasks are saved in **localStorage** so your list persists across page reloads.
@@ -76,4 +76,5 @@ This project is licensed under the MIT License.
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
